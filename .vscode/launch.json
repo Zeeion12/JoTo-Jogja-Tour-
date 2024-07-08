@@ -9,6 +9,13 @@
             "name": "AppMain",
             "request": "launch",
             "mainClass": "AppProto.AppMain",
+            "projectName": "JoTo_64c04256"
+        },
+        {
+            "type": "java",
+            "name": "AppMain",
+            "request": "launch",
+            "mainClass": "AppProto.AppMain",
             "projectName": "JavaFXML_548bc9"
         },
         {
