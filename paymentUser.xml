@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <payment>
-    <email>tio12@gmail.com</email>
-    <firstName>tio</firstName>
-    <lastName>ananda</lastName>
-    <telephone>123456789</telephone>
-    <dateOfBirth>11/11/2005</dateOfBirth>
-    <cardName>tio</cardName>
-    <cardNumber>1929384848</cardNumber>
-    <cardDate>12/11</cardDate>
-    <bookedService>Tour Guide</bookedService>
+    <email>12</email>
+    <firstName>12</firstName>
+    <lastName>12</lastName>
+    <telephone>13</telephone>
+    <dateOfBirth>2</dateOfBirth>
+    <cardName>12</cardName>
+    <cardNumber>12</cardNumber>
+    <cardDate>12</cardDate>
+    <bookedService>Hotels</bookedService>
 </payment>
