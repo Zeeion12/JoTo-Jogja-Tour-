@@ -46,6 +46,8 @@ public class HomepageController implements Initializable {
     @FXML
     private Button catReligi;
     @FXML private Button news;
+    @FXML private Button news1;
+    @FXML private Button news2;
 
 
     // Wisata
@@ -234,6 +236,22 @@ public class HomepageController implements Initializable {
     public void News(ActionEvent event) {
         if (news != null) {
             openScene.openScene("News", news);
+        }
+    }
+
+    // Untuk Pergi Ke News
+    @FXML
+    public void News1(ActionEvent event) {
+        if (news1 != null) {
+            openScene.openScene("Newss", news1);
+        }
+    }
+
+    // Untuk Pergi Ke News
+    @FXML
+    public void News2(ActionEvent event) {
+        if (news2 != null) {
+            openScene.openScene("Newsss", news2);
         }
     }
 

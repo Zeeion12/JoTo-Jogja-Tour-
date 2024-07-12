@@ -18,16 +18,16 @@
                <children>
                   <AnchorPane prefHeight="1553.0" prefWidth="995.0" styleClass="homePage2">
                      <children>
-                        <AnchorPane prefHeight="541.0" prefWidth="995.0" styleClass="nimg3">
+                        <AnchorPane prefHeight="541.0" prefWidth="995.0" styleClass="nimg2">
                            <children>
                               <AnchorPane prefHeight="541.0" prefWidth="995.0" styleClass="bgImage1">
                                  <children>
-                                    <Text fill="WHITE" layoutX="46.0" layoutY="408.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5 Pantai Jogja yang wajib dikunjugi bagi penikmat senja" wrappingWidth="745.3505859375">
+                                    <Text fill="WHITE" layoutX="46.0" layoutY="403.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5 Rekomendasi Wisata Kuliner Terbaik Yang Dapat Kalian Kunjungi " wrappingWidth="816.8505859375">
                                        <font>
                                           <Font name="Arial Bold" size="46.0" />
                                        </font>
                                     </Text>
-                                    <Text fill="WHITE" layoutX="46.0" layoutY="495.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Diperbarui: 12/7/024">
+                                    <Text fill="WHITE" layoutX="46.0" layoutY="495.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Diperbarui: 12/7/2024">
                                        <font>
                                           <Font name="Arial Italic" size="16.0" />
                                        </font>
@@ -36,62 +36,62 @@
                               </AnchorPane>
                            </children>
                         </AnchorPane>
-                        <Text layoutX="46.0" layoutY="575.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Jogja, selain dikenal dengan kekayaan budaya dan sejarahnya, juga menawarkan keindahan alam yang memukau. Salah satu daya tariknya adalah pantai-pantai yang menakjubkan, terutama saat senja tiba. Berikut adalah lima pantai di Jogja yang sangat cocok untuk menikmati keindahan matahari terbenam." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="575.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Yogyakarta atau yang akrab disebut Jogja, tidak hanya terkenal dengan keindahan alam dan budayanya yang kental, tetapi juga dengan kekayaan kuliner yang menggugah selera. Dari makanan tradisional hingga hidangan modern, Jogja menawarkan berbagai pilihan kuliner yang dapat memanjakan lidah kalian. Berikut adalah lima rekomendasi wisata kuliner terbaik yang wajib kalian kunjungi saat berada di Jogja." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="712.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Parangtritis adalah pantai paling terkenal di Jogja. Terletak sekitar 27 km dari pusat kota, pantai ini menawarkan pemandangan matahari terbenam yang memukau. Pasir hitam yang khas dan ombak besar menambah keindahan senja di pantai ini. Aktivitas lain yang bisa dinikmati adalah naik delman atau ATV menyusuri pantai sambil menunggu matahari terbenam." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="712.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Gudeg adalah makanan khas Yogyakarta yang wajib dicoba. Salah satu tempat terbaik untuk menikmati hidangan ini adalah di Gudeg Yu Djum. Dengan cita rasa manis yang khas dan tekstur yang lembut, gudeg di sini selalu menjadi favorit para wisatawan. Ditambah dengan lauk pelengkap seperti ayam kampung, telur, dan sambal krecek, pengalaman makan di Gudeg Yu Djum pasti tidak akan terlupakan." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="686.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="1. Pantai Parangtritis">
+                        <Text layoutX="46.0" layoutY="686.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="1. Gudeg Yu Djum">
                            <font>
                               <Font name="Arial Bold" size="21.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="841.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="2. Pantai Indrayanti">
+                        <Text layoutX="46.0" layoutY="841.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="2. Angkringan Lik Man">
                            <font>
                               <Font name="Arial Bold" size="21.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="867.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Pantai Indrayanti, yang juga dikenal sebagai Pantai Pulang Syawal, terkenal dengan pasir putihnya yang lembut dan air laut yang jernih. Terletak di kawasan Gunungkidul, pantai ini menawarkan suasana yang lebih tenang dibandingkan pantai lainnya. Menikmati senja di Pantai Indrayanti bisa menjadi pengalaman yang sangat menenangkan, diiringi deburan ombak yang lembut dan angin sepoi-sepoi." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="867.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Angkringan adalah salah satu ikon kuliner Jogja yang tidak boleh dilewatkan. Angkringan Lik Man terkenal dengan menu kopi joss-nya, yaitu kopi yang disajikan dengan arang panas. Selain itu, kalian juga bisa menikmati berbagai makanan sederhana namun lezat seperti nasi kucing, sate usus, dan gorengan. Suasana santai dan harga yang terjangkau membuat Angkringan Lik Man menjadi tempat favorit untuk nongkrong di malam hari." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1002.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="3. Pantai Glagah">
+                        <Text layoutX="46.0" layoutY="1002.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="3. Bakpia Pathok 25">
                            <font>
                               <Font name="Arial Bold" size="21.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1028.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Pantai Glagah terletak di Kulon Progo, sekitar 40 km dari pusat kota Jogja. Pantai ini memiliki laguna yang luas dan pemecah ombak yang ikonik, menjadikannya tempat yang unik untuk menikmati senja. Warna langit yang berubah dari biru menjadi oranye keemasan, dipadukan dengan pemandangan laguna, menciptakan panorama yang memukau dan sulit untuk dilupakan." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="1028.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Tidak lengkap rasanya berkunjung ke Jogja tanpa membawa oleh-oleh bakpia. Bakpia Pathok 25 adalah salah satu produsen bakpia yang paling terkenal di Jogja. Dengan berbagai varian rasa seperti kacang hijau, cokelat, dan keju, bakpia ini selalu menjadi buruan para wisatawan. Selain rasanya yang enak, kemasan yang praktis juga menjadikan Bakpia Pathok 25 sebagai oleh-oleh yang sempurna." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1158.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="4. Pantai Drini">
+                        <Text layoutX="46.0" layoutY="1158.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="4. Sate Klathak Pak Pong">
                            <font>
                               <Font name="Arial Bold" size="21.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1184.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Pantai Drini adalah salah satu pantai yang paling eksotis di Gunungkidul. Terdapat pulau kecil yang membagi pantai ini menjadi dua bagian, menciptakan pemandangan yang unik dan mempesona. Senja di Pantai Drini memberikan nuansa magis, dengan siluet pulau kecil di tengah laut dan langit yang berwarna-warni. Tempat ini juga cocok untuk berfoto dan menikmati keindahan alam yang masih asri." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="1184.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Jika kalian penggemar sate, Sate Klathak Pak Pong adalah tempat yang harus kalian kunjungi. Berbeda dengan sate pada umumnya, sate klathak hanya menggunakan bumbu garam dan tusukan dari jeruji besi, yang membuat daging lebih empuk dan matang merata. Disajikan dengan kuah gulai yang gurih, sate klathak ini akan memberikan pengalaman kuliner yang unik dan lezat." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1305.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="5. Pantai Kukup">
+                        <Text layoutX="46.0" layoutY="1305.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="5. House of Raminten">
                            <font>
                               <Font name="Arial Bold" size="21.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1331.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Pantai Kukup terletak tidak jauh dari Pantai Baron di Gunungkidul. Pantai ini dikenal dengan batu karangnya yang indah dan air laut yang jernih. Di sore hari, saat matahari mulai terbenam, Pantai Kukup menawarkan pemandangan yang luar biasa. Suasana tenang dan angin laut yang segar menambah kenyamanan saat menikmati senja di pantai ini." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="1331.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="House of Raminten adalah restoran yang menawarkan pengalaman makan yang unik dengan suasana tradisional Jawa yang kental. Menu yang ditawarkan sangat beragam, mulai dari makanan tradisional seperti nasi kucing dan wedang uwuh, hingga makanan barat. Dengan dekorasi yang khas dan pelayanan yang ramah, House of Raminten menjadi tempat yang ideal untuk menikmati makan malam bersama keluarga atau teman-teman." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
                         </Text>
-                        <Text layoutX="46.0" layoutY="1439.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Menikmati senja di pantai-pantai Jogja adalah pengalaman yang tak terlupakan. Setiap pantai menawarkan keindahan dan pesonanya masing-masing, menciptakan momen magis yang sempurna untuk diabadikan. Jika Anda berkunjung ke Jogja, jangan lewatkan kesempatan untuk menyaksikan keindahan senja di salah satu pantai ini." wrappingWidth="885.5234375">
+                        <Text layoutX="46.0" layoutY="1439.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textColor" text="Dengan banyaknya pilihan kuliner yang ada, Yogyakarta memang pantas disebut sebagai surga bagi para pecinta kuliner. Jadi, saat kalian berkunjung ke Jogja, pastikan untuk mencoba lima rekomendasi wisata kuliner di atas dan nikmati kelezatan yang ditawarkan." wrappingWidth="885.5234375">
                            <font>
                               <Font name="Arial Bold" size="16.0" />
                            </font>
